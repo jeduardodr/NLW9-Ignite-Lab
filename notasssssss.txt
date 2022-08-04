@@ -1,0 +1,27 @@
+
+Importaçoes 
+
+Trabalhar com datas
+npm i date.fns
+
+ou 
+npm i dayjs
+---------------------------------------------------------------------
+Trabalhar com estilizaçao TailWind
+
+---------------------------------------------------------------------
+Biblioteca de Icon para react 
+	npm i phospor-react
+---------------------------------------------------------------------
+Site para converter svj em JSX 
+
+https://svg2jsx.com/
+---------------------------------------------------------------------
+Para reprodutor de video Vime.js
+npm i @vime/core @vime/react
+---------------------------------------------------------------------
+React router 
+Roteamento e -> tem permissao para ter varias paginas  (varias paginas sao acessiveis por roteamentos diferentes
+npm i react-router-dom
+
+---------------------------------------------------------------------
